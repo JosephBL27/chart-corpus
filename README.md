@@ -1,5 +1,7 @@
 # chart-corpus
 
+**Case study:** [josephbl27.github.io/#carta](https://josephbl27.github.io/#carta), part of [my portfolio](https://josephbl27.github.io/).
+
 **Live chart: [{{PORTFOLIO_URL}}/demos/carta/]({{PORTFOLIO_URL}}/demos/carta/)**
 
 Draws a set of linked notes as a medieval portolan sea chart. I use it on my
